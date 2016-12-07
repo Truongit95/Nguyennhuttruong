@@ -1,0 +1,3 @@
+rootProject.name = 'TechLaza'
+
+include ':app'
